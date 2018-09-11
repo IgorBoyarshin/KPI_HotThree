@@ -8,6 +8,7 @@ int main() {
 
     for (unsigned int i = 0; i < 5; i++) {
         std::cout << i << std::endl;
+        std::cout << (i+1) << std::endl;
     }
 
     return 0;
