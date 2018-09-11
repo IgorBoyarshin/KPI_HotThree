@@ -3,4 +3,4 @@ struct Test{
     int b;
 
     bool compareInts(const int& a, const int& b);
-}
+};
